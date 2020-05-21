@@ -1,0 +1,17 @@
+/media/mostafa/Mostafa/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000104_0.jpeg 0 0.324951 0.400568 0.073730 0.374188
+/media/mostafa/Mostafa/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000115_0.jpeg 0 0.317383 0.401786 0.065430 0.387987
+/media/mostafa/Mostafa/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000126_0.jpeg 0 0.302490 0.393669 -0.080566 0.437500
+/media/mostafa/Mostafa/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000137_0.jpeg 0 0.300049 0.388799 -0.083496 0.449675
+/media/mostafa/Mostafa/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000147_0.jpeg 0 0.298340 0.413555 0.063477 0.374188
+/media/mostafa/Mostafa/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000158_0.jpeg 0 0.354736 0.400162 0.073730 0.395292
+/media/mostafa/Mostafa/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000169_0.jpeg 0 0.297607 0.389407 0.073730 0.420860
+/media/mostafa/Mostafa/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000180_0.jpeg 0 0.327393 0.403612 0.068848 0.372159
+/media/mostafa/Mostafa/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000191_0.jpeg 0 0.271729 0.387175 -0.078613 0.460227
+/media/mostafa/Mostafa/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000010_0.jpeg 0 0.076904 0.790179 -0.148926 0.099838
+/media/mostafa/Mostafa/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000019_0.jpeg 0 0.272705 0.380479 -0.093262 0.493912
+/media/mostafa/Mostafa/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000040_0.jpeg 0 0.304932 0.386364 -0.083496 0.428571
+/media/mostafa/Mostafa/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000050_0.jpeg 0 0.340576 0.409497 -0.066895 0.346591
+/media/mostafa/Mostafa/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000063_0.jpeg 0 0.169678 0.356737 -0.175293 0.650162
+/media/mostafa/Mostafa/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000073_0.jpeg 0 0.248291 0.369927 -0.105957 0.524756
+/media/mostafa/Mostafa/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000083_0.jpeg 0 0.298828 0.395292 0.081055 0.396916
+/media/mostafa/Mostafa/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/000093_0.jpeg 0 0.339844 0.407062 0.070312 0.351461
